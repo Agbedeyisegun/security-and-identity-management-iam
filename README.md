@@ -7,20 +7,18 @@ https://github.com/Agbedeyisegun/3mtt-project/blob/main/darey.io/security-and-id
 /README.md
 
 
-https://github.com/Agbedeyisegun/security-and-identity-management-iam.git
-
 ## Below are the screenshots of the steps.
 
 
 
 - Step 1 
 Screenshot of aws console in iam page with created policy called "developers" in ec2 with full access for all resources for the developers Team in a fintech company named Zappy e-Bank in other to ensure policy base environment for the organisation cloud infrastucture setup. 
-![developer-policy created](img\step1-developer-policy-created-successfully.jpg)
+![developer-policy created](img/step1-developer-policy-created-successfully.jpg)
 
 
 - Step 2 
 Screenshot of aws console in iam page with created group called "Development Team" in the fintech company named Zappy e-Bank in other to ensure group permission base environment for the organisation cloud infrastucture setup. 
-![development group created](img\step2-developer-added-to-development-team-group-successfully.jpg)
+![development group created](img/step2-developer-added-to-development-team-group-successfully.jpg)
 
 
 
@@ -28,7 +26,7 @@ Screenshot of aws console in iam page with created group called "Development Tea
 
 - Step 3 
 Screenshot of aws console in iam page with created policy called "analyst-policy" in s3 Bucket with full access for all resources for the Analyst Team in a fintech company named Zappy e-Bank in other to ensure policy base environment for the organisation cloud infrastucture setup. 
-![analyst-policy created](img\step3-analyst-policy-created-successfully.jpg)
+![analyst-policy created](img/step3-analyst-policy-created-successfully.jpg)
 
 
 
@@ -37,14 +35,14 @@ Screenshot of aws console in iam page with created policy called "analyst-policy
 
 - Step 4 
 Screenshot of aws console in iam page with created group called "Analyst Team" in the fintech company named Zappy e-Bank in other to ensure group permission base environment for the organisation cloud infrastucture setup. 
-![analyst group created](img\step4-analyst-added-to-analyst-team-group-successfully.jpg)
+![analyst group created](img/step4-analyst-added-to-analyst-team-group-successfully.jpg)
 
 
 
 
 - Step 5 
 Screenshot of a creation of a user called john to be added to the "Development Team" in other to ensure group permission base environment for the organisation cloud infrastucture setup. 
-![user mary creation details](img\step5-developer-john-creation-auto-passwd.jpg)
+![user mary creation details](img/step5-developer-john-creation-auto-passwd.jpg)
 
 
 
@@ -52,14 +50,14 @@ Screenshot of a creation of a user called john to be added to the "Development T
 
 - Step 6 
 Screenshot of review of user called john to be added to the "Development Team" 
-![user john creation review](img\step6-developer-john-creation-review.jpg)
+![user john creation review](img/step6-developer-john-creation-review.jpg)
 
 
 
 
 - Step 7 
 Screenshot of successful creation of the user called john to be added to the "Development Team" with auto-generation password set with  download password file creation. 
-![user john ready](img\step7-developer-john-creation-review-successful-with-passwd.jpg)
+![user john ready](img/step7-developer-john-creation-review-successful-with-passwd.jpg)
 
 
 
@@ -67,7 +65,7 @@ Screenshot of successful creation of the user called john to be added to the "De
 
 - Step 8 
 Screenshot of successful creation of the user called john added to the "Development Team"  and "developers" policy. 
-![user john added to team with the policy](img\step8-developer-john-creation-overview.jpg)
+![user john added to team with the policy](img/step8-developer-john-creation-overview.jpg)
 
 
 
@@ -75,7 +73,7 @@ Screenshot of successful creation of the user called john added to the "Developm
 
 - Step 9 
 Screenshot of a creation of a user called mary to be added to the "Analyst Team" in other to ensure group permission base environment for the organisation cloud infrastucture setup. 
-![user mary creation details](img\step9-analyst-mary-creation-auto-passwd.jpg)
+![user mary creation details](img/step9-analyst-mary-creation-auto-passwd.jpg)
 
 
 
@@ -83,7 +81,7 @@ Screenshot of a creation of a user called mary to be added to the "Analyst Team"
 
 - Step 10 
 Screenshot of review of user called mary to be added to the "Analyst Team" 
-![user mary creation review](img\step10-analyst-mary-creation-review.jpg)
+![user mary creation review](img/step10-analyst-mary-creation-review.jpg)
 
 
 
@@ -91,7 +89,7 @@ Screenshot of review of user called mary to be added to the "Analyst Team"
 
 - Step 11 
 Screenshot of successful creation of the user called mary to be added to the "Analyst Team" with auto-generation password set with  download password file creation. 
-![user mary ready](img\step11-analyst-mary-creation-review-successful-with-passwd.jpg)
+![user mary ready](img/step11-analyst-mary-creation-review-successful-with-passwd.jpg)
 
 
 
@@ -99,14 +97,14 @@ Screenshot of successful creation of the user called mary to be added to the "An
 
 - Step 12 
 Screenshot of successful creation of the user called mary added to the "Analyst Team"  and "Analyst-policy" policy. 
-![user mary added to team with the policy](img\step12-analyst-mary-creation-overview.jpg)
+![user mary added to team with the policy](img/step12-analyst-mary-creation-overview.jpg)
 
 
 
 
 - Step 13 
 Screenshot of aws with user john trying to login with his auto-generated password as one of the developers employed to with the "Development Team" that have "developers" policy attached to his role in Zappy e-Bank. 
-![user john first time login](img\step13-developer-john-login-with-auto-passwd-changed.jpg)
+![user john first time login](img/step13-developer-john-login-with-auto-passwd-changed.jpg)
 
 
 
@@ -115,14 +113,14 @@ Screenshot of aws with user john trying to login with his auto-generated passwor
 
 - Step 14 
 Screenshot of aws with user john with force password changed for the first time of login to the platform as developer.
-![user john force password change](img\step14-developer-john-login-with-auto-passwd-changed.jpg)
+![user john force password change](img/step14-developer-john-login-with-auto-passwd-changed.jpg)
 
 
 
 
 - Step 15 
 Screenshot of aws with user john with force password changed successfully.
-![user john password change successfully](img\step15-developer-john-login-with-auto-passwd-changed-successfully.jpg)
+![user john password change successfully](img/step15-developer-john-login-with-auto-passwd-changed-successfully.jpg)
 
 
  
@@ -131,14 +129,14 @@ Screenshot of aws with user john with force password changed successfully.
 - Step 16
 
 Screenshot of aws with user john logged in to the console successfully after chnaging the password.
-![user john logged in to the console](img\step16-developer-john-login-page-before-mfa.jpg)
+![user john logged in to the console](img/step16-developer-john-login-page-before-mfa.jpg)
 
 
 
 - Step 17
 
 Screenshot of aws with main user activate mfa to increase the security of the user called john in other to reduce access to fictious access to the system.
-![user john mfa activation](img\step17-developer-john-mfa-creation.jpg)
+![user john mfa activation](img/step17-developer-john-mfa-creation.jpg)
 
 
 
@@ -149,7 +147,7 @@ Screenshot of aws with main user activate mfa to increase the security of the us
 Screenshot of aws with main user using google aunthenticator already installed on the user john
 's phone for authenticating his access to the company
 's plaform on aws.
-![user john mfa google auth](img\step18-developer-john-mfa-creation-google-auth.jpg)
+![user john mfa google auth](img/step18-developer-john-mfa-creation-google-auth.jpg)
 
 
 
@@ -157,14 +155,14 @@ Screenshot of aws with main user using google aunthenticator already installed o
 - Step 19
 
 Screenshot of aws with main user added google aunthenticator successfully for user john.
-![user john mfa google auth added](img\step19-developer-john-mfa-google-auth-added.jpg)
+![user john mfa google auth added](img/step19-developer-john-mfa-google-auth-added.jpg)
 
 
 
 - Step 20
 
 Screenshot of aws with main user activate mfa to increase the security of the user called mary in other to reduce access to fictious access to the system.
-![user mary mfa activation](img\step20-analyst-mary-mfa-creation.jpg)
+![user mary mfa activation](img/step20-analyst-mary-mfa-creation.jpg)
 
 
 
@@ -174,14 +172,14 @@ Screenshot of aws with main user activate mfa to increase the security of the us
 Screenshot of aws with main user using google aunthenticator already installed on the user mary
 's phone for authenticating his access to the company
 's plaform on aws.
-![user mary mfa google auth](img\step21-analyst-mary-mfa-creation-google-auth.jpg)
+![user mary mfa google auth](img/step21-analyst-mary-mfa-creation-google-auth.jpg)
 
 
 
 - Step 22
 
 Screenshot of aws with main user added google aunthenticator successfully for user mary.
-![user mary mfa google auth added](img\step22-analyst-mary-mfa-google-auth-added.jpg)
+![user mary mfa google auth added](img/step22-analyst-mary-mfa-google-auth-added.jpg)
 
 
 
@@ -190,7 +188,7 @@ Screenshot of aws with main user added google aunthenticator successfully for us
 - Step 23
 
 Screenshot of aws user john login page trying to test his access to ec2 instance that was given access to on the company's platform to be able to create an application to float the company's website and edit it. He created an instance called "production-app" and it is running successfully as expected.
-![user john access granted tested](img\step23-developer-john-ec2-creation-access.jpg)
+![user john access granted tested](img/step23-developer-john-ec2-creation-access.jpg)
 
 
 
@@ -198,7 +196,7 @@ Screenshot of aws user john login page trying to test his access to ec2 instance
 - Step 24
 
 Screenshot of aws user john login page trying to test his access if it will work on resources that he did not have access to  which is s3 storage bucket as it is out of his job purview and he got access denied, when trying to create a storage bucket as expected.
-![user john access denied tested](img\step24-developer-john-s3-creation-access-denied.jpg)
+![user john access denied tested](img/step24-developer-john-s3-creation-access-denied.jpg)
 
 
 
@@ -207,14 +205,14 @@ Screenshot of aws user john login page trying to test his access if it will work
 - Step 25
 
 Screenshot of aws with user called mary showing the mfa activated for her during login in other to reduce fictious access to the system.
-![user mary mfa activation tested](img\step25-analyst-mary-mfa-creation-tested.jpg)
+![user mary mfa activation tested](img/step25-analyst-mary-mfa-creation-tested.jpg)
 
 
 
 
 - Step 26 
 Screenshot of aws with user mary with force password changed for the first time of login to the platform as analyst.
-![user mary force password change](img\step26-analyst-mary-login-with-auto-passwd-changed.jpg)
+![user mary force password change](img/step26-analyst-mary-login-with-auto-passwd-changed.jpg)
 
 
 
@@ -224,7 +222,7 @@ Screenshot of aws with user mary with force password changed for the first time 
 - Step 27
 
 Screenshot of aws user mary login page trying to test her access to s3 storage bucket that was given access to on the company's platform to be able to create a storage for the company's website database to store data and edit it. She created storage called "production-database" and it is was successful as expected.
-![user mary access granted tested](img\step27-analyst-mary-s3-creation-access-active.jpg)
+![user mary access granted tested](img/step27-analyst-mary-s3-creation-access-active.jpg)
 
 
 
@@ -233,7 +231,7 @@ Screenshot of aws user mary login page trying to test her access to s3 storage b
 - Step 28
 
 Screenshot of aws user mary login page trying to test her access to s3 storage bucket that was given access to edit and delete it. She deleted "production-database" successful as expected.
-![user mary access granted tested](img\step28-analyst-mary-s3-edit-access-active.jpg)
+![user mary access granted tested](img/step28-analyst-mary-s3-edit-access-active.jpg)
 
 
 
@@ -242,7 +240,7 @@ Screenshot of aws user mary login page trying to test her access to s3 storage b
 - Step 29
 
 Screenshot of aws user mary login page trying to test her access if it will work on resources that he did not have access to  which is ec2 as it is out of his job purview and he got access denied, when trying to create an instance as expected.
-![user mary access denied tested](img\step29-analyst-mary-ec2-creation-access-denied.jpg)
+![user mary access denied tested](img/step29-analyst-mary-ec2-creation-access-denied.jpg)
 
 
 
@@ -296,9 +294,18 @@ AWS Practice:
 - Regularly audit and refine policies.
 
 5. Scenario: John (Developer) & Mary (Analyst)
-IAM Setup Example: | Person | IAM User | Group | Policy Attached | Reason | |--------|----------|-------|------------------|--------| | John   | john_dev | Developers | Full access to EC2, limited S3 | Needs to deploy and manage backend services | | Mary   | mary_analyst | Analysts | Read-only access to S3 and Athena | Needs to analyze data, not modify infrastructure |
+
+IAM Setup Example: 
+
+| Person | IAM User     | Group        | Policy Attached       | Reason    
+
+| John   | john_dev     | Developers   | Full access to EC2    | Needs deploy and manage ec2       
+
+| Mary   | mary_analyst | Analysts     | Full access to S3     | Needs to analyze data and modify it 
+
+
+
 Alignment with Least Privilege:
 - John can’t access data analytics tools.
 - Mary can’t launch or modify EC2 instances.
 
-Would you like a visual diagram of this IAM setup or a sample policy in JSON format?
